@@ -3,10 +3,10 @@
 
 > [GSDet: Gaussian Splatting for Oriented Object Detection]()
 
-The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
-The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
-The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
-The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_GSDet_baseline.md)  
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_GSDet_baseline.md)   
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_GSDet_baseline.md)  
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_GSDet_baseline.md)   
 
 ## Abstract
 
