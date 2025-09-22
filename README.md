@@ -3,10 +3,10 @@
 
 > [GSDet: Gaussian Splatting for Oriented Object Detection]()
 
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
+The baseline of GSDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
 
 ## Abstract
 
@@ -19,10 +19,10 @@ Oriented object detection has advanced with the development of convolutional neu
 
 ## Insight
 
-- 模型能将随机输入学习得到目标。随机输入都可行，其他类型的输入大概率也是可行的。
-- 旋转框可以表征为概率分布，如高斯分布。万物都可以表征为不同的概率分布。
-- 扩散模型、高斯泼溅等都涉及概率分布，都涉及随机性。
-- 架构是decoder-only型，由多层decoder layer堆叠。代码借用了openmmlab 中two-stage类作为父类，事实上，将one-stage或transformer作为父类都可以。
+<!-- - 模型能将随机输入学习得到目标。随机输入都可行，其他类型的输入大概率也是可行的。 -->
+<!-- - 旋转框可以表征为概率分布，如高斯分布。万物都可以表征为不同的概率分布。 -->
+<!-- - 扩散模型、高斯泼溅等都涉及概率分布，都涉及随机性。 -->
+<!-- - 架构是decoder-only型，由多层decoder layer堆叠。代码借用了openmmlab 中two-stage类作为父类，事实上，将one-stage或transformer作为父类都可以。 -->
 
 - The model can learn targets from random inputs. If random inputs work, other types of inputs are likely feasible as well.  
 - Oriented boxes can be represented as probability distributions, such as Gaussian distributions. Everything can be characterized by different probability distributions.  
